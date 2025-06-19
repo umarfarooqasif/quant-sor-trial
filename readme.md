@@ -6,7 +6,7 @@
 ---
 
 ## 👤 Candidate Info
-- **Name:** Umar Farooq  
+- **Name:** Muhammad Umar Farooq Asif 
 - **GitHub:** [umarfarooqasif](https://github.com/umarfarooqasif)  
 - **Project Repo:** [quant-sor-trial](https://github.com/umarfarooqasif/quant-sor-trial)
 
