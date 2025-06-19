@@ -48,7 +48,7 @@ Build a Smart Order Router (SOR) using the Cont & Kukanov model, simulate market
 
 ## 🧪 Sample Output
 
-```json
+
 {
   "best_parameters": {
     "lambda_over": 0.4,
