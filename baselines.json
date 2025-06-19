@@ -1,0 +1,14 @@
+{
+  "best_ask": {
+    "total_cash": 1114103.36,
+    "avg_fill_px": 222.82
+  },
+  "twap": {
+    "total_cash": 934628.6799999998,
+    "avg_fill_px": 222.74
+  },
+  "vwap": {
+    "total_cash": 47445.30000000005,
+    "avg_fill_px": 222.75
+  }
+}
